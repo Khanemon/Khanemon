@@ -1,16 +1,28 @@
-### Hi there 👋
+# 👋 Hello, I'm Emon Hossain Khan Bengir
 
-<!--
-**Khanemon/Khanemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 🏠 Living: Gazipur, Dhaka, Bangladesh
 
-Here are some ideas to get you started:
+### 👨🏽‍💻 Other Skills:
+Operating System
+HSC ICT
+MS Word
+MS Excel
+MS powerpoint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍🎓 Education
+B.Sc. in Computer Science & Engineering
+Uttara University
+Dhaka, Bangladesh.
+
+## Languages:
+🇧🇩 Bangla : Native
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+🇮🇳 Hindi : Intermediate
+
+## Sports / Game / Activities / Hobby:
+🏏 Cricket, ⚽ Football, 🏸 Badminton
+🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+✈️ Travelling
+
+
+Thanks for going through my Portfolio.
